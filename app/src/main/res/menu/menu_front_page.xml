@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.nnataraj.assignment3.FrontPageActivity">
+    <item
+        android:id="@+id/action_about_me"
+        android:orderInCategory="100"
+        android:title="About me"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_task_2"
+        android:orderInCategory="101"
+        android:title="Task 2"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_task_3"
+        android:orderInCategory="102"
+        android:title="Task 3"
+        app:showAsAction="never" />
+</menu>
